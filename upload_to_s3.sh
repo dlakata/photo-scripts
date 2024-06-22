@@ -1,0 +1,1 @@
+aws s3 sync img/ s3://davidlakata-images/2022/iceland/ --storage-class STANDARD_IA
